@@ -1,0 +1,16 @@
+git config --list
+
+git config --global user.name "My Name"
+
+git config --global user.email "myemail@example.com"
+
+//user.name=Earniesty
+//user.mail=earnthanachanok@gmail.com
+//user.email=thanachanok.banj@mail.kmutt.ac.th
+
+git add .
+git status
+git commit -m "asdfg"
+git branch 
+git branch main
+git push origin master/main
